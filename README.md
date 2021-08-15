@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bastien22022
 - 👀 I am interested in IT, new innovations
-- 🌱 I am currently learning HTML / CSS / JAVA
+- 🌱 I am currently learning HTML / CSS / JAVASCRIPT
 - 💞️ I’m looking to collaborate on ///
 - 📫 How to reach me 🙄
 
