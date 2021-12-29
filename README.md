@@ -1,8 +1,8 @@
-Hi,
+👋 Hi,
 
 My name is **Bastien**, <br>
 I am ***16*** years, <br>
-I live in ***France*** 
+🇫🇷 I live in ***France*** 
 
 I am in **high school** in first technology ( STI2D )
 
