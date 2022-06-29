@@ -1,10 +1,10 @@
 👋 Hi,
 
 My name is **Bastien**, <br>
-I am ***16*** years, <br>
+I am ***17*** years, <br>
 🇫🇷 I live in ***France*** 
 
-I am in **high school** in first technology ( STI2D )
+I am in **high school** in terminal technology ( STI2D )
 
 I’ve been very interested in new technology for **11** years. <br>
 I follow all the news about this. <br>
