@@ -39,8 +39,5 @@ with my imagination.
   <a href="https://reactjs.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px; height: 50px">
   </a>
-  <a href="https://www.php.net">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="width: 50px; height: 50px">
-  </a>
 </div>
 
