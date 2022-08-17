@@ -1,7 +1,7 @@
 👋 Hi,
 
 My name is **Bastien**, <br>
-I am ***17*** years, <br>
+I has ***17*** years, <br>
 🇫🇷 I live in ***France*** 
 
 I am in **high school** in terminal technology ( STI2D )
