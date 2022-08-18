@@ -34,13 +34,17 @@ with my imagination.
   <a href="https://tailwindcss.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="width: 50px; height: 50px">
   </a>
+  <a href="https://reactjs.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px; height: 50px">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://git-scm.com/downloads/logos" style="width: 50px; height: 50px">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" style="width: 50px; height: 50px">
+  </a>
 </div>
 
 # I'M LEARNING 
 
-<div style="display: flex">
-  <a href="https://reactjs.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px; height: 50px">
-  </a>
-</div>
 
