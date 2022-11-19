@@ -37,8 +37,8 @@ with my imagination.
   <a href="https://reactjs.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px; height: 50px">
   </a>
-  <a href="https://git-scm.com/downloads/logos">
-    <img src="https://git-scm.com/downloads/logos" style="width: 50px; height: 50px">
+  <a href="fihttps://git-scm.com/downloads/logos](https://git-scm.com/">
+    <img src="https://git-scm.com/downloads/logos](https://git-scm.com/images/logos/logomark-orange@2x.png" style="width: 50px; height: 50px">
   </a>
   <a href="https://getbootstrap.com/">
     <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" style="width: 50px; height: 50px">
