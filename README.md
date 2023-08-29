@@ -4,8 +4,6 @@ My name is **Bastien**, <br>
 I has ***18*** years, <br>
 🇫🇷 I live in ***France*** 
 
-I am in **high school** in terminal technology ( STI2D )
-
 I’ve been very interested in new technology for **11** years. <br>
 I follow all the news about this. <br>
 
@@ -44,7 +42,3 @@ with my imagination.
     <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" style="width: 50px; height: 50px">
   </a>
 </div>
-
-# I'M LEARNING 
-
-
