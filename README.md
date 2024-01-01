@@ -4,16 +4,6 @@ My name is **Bastien**, <br>
 I has ***18*** years, <br>
 🇫🇷 I live in ***France*** 
 
-I’ve been very interested in new technology for **11** years. <br>
-I follow all the news about this. <br>
-
-I started coding by discovering **HTML** and **CSS** and then **Javascript**.
-
-I love learning because it allows me to understand how <br> 
-a website or app works and
-to be able to create what I want <br> 
-with my imagination.
-
 # MY LANGUAGES & FRAMEWORK
 
 <div style="display: flex>
