@@ -41,4 +41,7 @@ with my imagination.
   <a href="https://getbootstrap.com/">
     <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" style="width: 50px; height: 50px">
   </a>
+  <a href="https://getbootstrap.com/](https://www.python.org/">
+    <img src="  https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="width: 50px; height: 50px">
+  </a>
 </div>
